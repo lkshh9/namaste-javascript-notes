@@ -17,8 +17,3 @@ console.log(window.x); // 10
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=QCRpVw2KXf8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/QCRpVw2KXf8/0.jpg" width="750"
-alt="Shortest JS Program, window & this keyword Youtube Link"/></a>
